@@ -74,7 +74,7 @@ button span{
 .light{
     position: absolute;
     top: 100%;
-    left: 50%;
+    left: 46%;
     transform: translateX(-50%);
     width: 700px;
 }
