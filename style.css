@@ -24,7 +24,35 @@ nav .menu-img{
 }
 nav .logo-img{
     width: 80px;
+    cursor: pointer;
 }
+nav ul{
+   flex: 1;
+   text-align: right; 
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin:  0 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+button{
+    background: #efefef;
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+}
+
+
+
 .lmp{
     color: darkorange;
 }
