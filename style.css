@@ -59,6 +59,26 @@ button span{
     margin-left: 2px; 
 }
 
+.lamp-container{
+    position: absolute;
+    top: -20;
+    left: 22%;
+    width: 200px;
+}
+
+.lamp-img{
+  width: 100%;
+
+}
+
+.light{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 700px;
+}
+
 
 
 .lmp{
