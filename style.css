@@ -49,6 +49,7 @@ button{
     border: 0;
     outline: 0;
     cursor: pointer;
+    
 }
 button span{
     display: block;
@@ -123,6 +124,15 @@ button span{
    background-color: #00986f;
    display: block;
 
+}
+
+.active{
+    background: green ;
+}
+
+.active span{
+    background: #fff;
+    margin-left: 31px;
 }
 
 
