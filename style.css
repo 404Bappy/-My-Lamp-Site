@@ -79,6 +79,7 @@ button span{
     transform: translateX(-50%);
     width: 700px;
     opacity: 0;
+    transition: opacity 0.5s;
 }
 
 .text-container{
@@ -133,6 +134,10 @@ button span{
 .active span{
     background: #fff;
     margin-left: 31px;
+}
+
+.on{
+    opacity: 1;
 }
 
 
