@@ -100,7 +100,7 @@ button span {
 
 .text-container a {
     text-decoration: none;
-    background: #00986f;
+    background: #ed840d;
     padding: 14px 40px;
     display: inline-block;
     color: #fff;
@@ -130,13 +130,13 @@ button span {
     height: 8px;
     margin-top: -2px;
     border-radius: 4px;
-    background-color: #00986f;
+    background-color: #f4980d;
     display: block;
 
 }
 
 .active {
-    background: green;
+    background: rgb(242, 151, 5);
 }
 
 .active span {
